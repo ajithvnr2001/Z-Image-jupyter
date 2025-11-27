@@ -18,3 +18,5 @@ https://github.com/Tongyi-MAI/Z-Image/blob/main/Decoupled_DMD.pdf
 https://tongyi-mai.github.io/Z-Image-homepage
 
 ### 🖼 Output
+
+<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/2466b2e0-b0f1-4842-8cf0-75e767377be6" />
