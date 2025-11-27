@@ -15,7 +15,7 @@ https://github.com/Tongyi-MAI/Z-Image
 https://github.com/Tongyi-MAI/Z-Image/blob/main/Decoupled_DMD.pdf
 
 ### 🌐 Page
-https://tongyi-mai.github.io/Z-Image-homepage
+https://tongyi-mai.github.io/Z-Image-blog/
 
 ### 🖼 Output
 
